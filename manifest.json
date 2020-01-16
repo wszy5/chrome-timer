@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "sYt",
+    "version": "1.0.0",
+    "author": "Wiktor Szymański",
+    "incognito":"spanning",
+    "description": "Monitoring czasu spędzonego na fb",
+    "browser_action": {
+        "default_icon": "resources/icon.png",
+        "default_popup": "popup.html",
+        "default_title": "Save your time"
+    }
+}
